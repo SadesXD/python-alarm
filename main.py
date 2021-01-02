@@ -52,7 +52,7 @@ def ms(t):
                 angkad = int(angkah)
             except:
                 print("[!] time is not defined")
-        return angkah * 86400000
+        return angkah * 216000
     else:
         print("[!] format time is not defined")
 
